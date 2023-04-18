@@ -1,5 +1,5 @@
 # osu!indonesia-skinhub
-### Hello! ini merupakan tempat dimana skin dari video YouTube <a href="https://www.youtube.com/osuindonesia">osu!indonesia</a> dikumpulkan menjadi 1 halaman, jika ingin submit skin osu! kalian, kalian bisa DM asterllia- di  <a href="https://twitter.com/naufalfarrelp1">Twitter</a>!! 
+### Hello! ini merupakan tempat dimana skin osu, terutama player Indonesia dikumpulkan, apabila kalian ingin mengsubmit skin kalian, kalian bisa DM asterllia- via Discord : melodynl-#8754 !! 
 dibuat oleh <a href="https://osu.ppy.sh/users/9456733">asterllia-</a><br>
 
 </br>
