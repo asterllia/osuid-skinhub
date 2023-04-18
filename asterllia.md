@@ -4,3 +4,23 @@
   <img src="https://a.ppy.sh/9456733"  
        width="150"
        height="150"></a>
+# [✦ - asterllia - nijika!](https://github.com/rudj-skinhub/woal/raw/tyfh/asterllia/%E2%9C%A6%20-%20asterllia%20-%20nijika!.osk)
+[![](https://i.imgur.com/dSgmIlD.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/asterllia/%E2%9C%A6%20-%20asterllia%20-%20nijika!.osk)
+
+# [✦ - asterllia - ikuyo!](https://github.com/rudj-skinhub/woal/raw/tyfh/asterllia/%E2%9C%A6%20-%20asterllia%20-%20ikuyo!.osk)
+[![](https://i.imgur.com/eYquBk6.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/asterllia/%E2%9C%A6%20-%20asterllia%20-%20ikuyo!.osk)
+
+# [✦ - asterllia - ryou!](https://github.com/rudj-skinhub/woal/raw/tyfh/asterllia/%E2%9C%A6%20-%20asterllia%20-%20ryou!.osk)
+[![](https://i.imgur.com/Gl6wQch.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/asterllia/%E2%9C%A6%20-%20asterllia%20-%20ryou!.osk)
+
+# [✦ - asterllia - ryou! - azr8](https://github.com/rudj-skinhub/woal/raw/tyfh/asterllia/%E2%9C%A6%20-%20asterllia%20-%20ryou!%20-%20azr8.osk)
+[![](https://i.imgur.com/0xIpuK8.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/asterllia/%E2%9C%A6%20-%20asterllia%20-%20ryou!%20-%20azr8.osk)
+
+# [#patience](https://github.com/rudj-skinhub/woal/raw/tyfh/asterllia/%23patience.osk)
+[![](https://i.imgur.com/3wbcSY3.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/asterllia/%23patience.osk)
+
+# [Lenathea-](https://github.com/rudj-skinhub/woal/raw/tyfh/asterllia/Lenathea-.osk)
+[![](https://i.imgur.com/Az1UVWz.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/asterllia/Lenathea-.osk)
+
+# [bocchi_aster!](https://github.com/rudj-skinhub/woal/raw/tyfh/asterllia/bocchi_aster!.osk)
+[![](https://i.imgur.com/RrmJyOr.jpg)](https://github.com/rudj-skinhub/woal/raw/tyfh/asterllia/bocchi_aster!.osk)
