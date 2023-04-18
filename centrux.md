@@ -6,4 +6,4 @@
        height="150"></a>
 
   # [asdf](https://drive.google.com/file/d/1J6p_pavHMGszWg8C42c303vbOuRC-mZ6/view)
-[![](https://cdn.discordapp.com/attachments/689426989345669144/1097902185737629716/centrux.jpeg))](https://drive.google.com/file/d/1J6p_pavHMGszWg8C42c303vbOuRC-mZ6/view)
+[![](https://cdn.discordapp.com/attachments/689426989345669144/1097902185737629716/centrux.jpeg)](https://drive.google.com/file/d/1J6p_pavHMGszWg8C42c303vbOuRC-mZ6/view)
