@@ -8,6 +8,6 @@ dibuat oleh <a href="https://osu.ppy.sh/users/9456733">asterllia-</a><br>
        width="175"
        height="175"></a>
   <a href="Tama-Desu.md">
-  <img src="https://a.ppy.sh/3813174  
+  <img src="https://a.ppy.sh/3813174"  
        width="175"
        height="175"></a>
