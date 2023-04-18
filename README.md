@@ -43,4 +43,8 @@ dibuat oleh <a href="https://osu.ppy.sh/users/9456733">asterllia-</a><br>
   <img src="https://a.ppy.sh/20752007"  
        width="175"
        height="175"></a>
+   <a href="shinei.md">
+  <img src="https://a.ppy.sh/4579136"  
+       width="175"
+       height="175"></a>     
      
