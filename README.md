@@ -31,4 +31,8 @@ dibuat oleh <a href="https://osu.ppy.sh/users/9456733">asterllia-</a><br>
   <img src="https://a.ppy.sh/9000010"  
        width="175"
        height="175"></a>
+        <a href="akshiro.md">
+  <img src="https://a.ppy.sh/10557490"  
+       width="175"
+       height="175"></a>
      
