@@ -1,4 +1,4 @@
-# centrux's skinhub
+# centrux's skins
 <p align="center">
 <a href="https://osu.ppy.sh/users/5426769">
   <img src="https://a.ppy.sh/5426769"  
