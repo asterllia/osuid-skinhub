@@ -1,4 +1,4 @@
-# [u_u] skins
+# [u_u]'s skins
 <p align="center">
 <a href="https://osu.ppy.sh/users/8688737">
   <img src="https://cdn.discordapp.com/attachments/1077225166813270016/1164802205145120808/IMG_1204.png"  
