@@ -1,4 +1,4 @@
-# akshiro's skinhub
+# akshiro's skins
 <p align="center">
 <a href="https://osu.ppy.sh/users/10557490">
   <img src="https://a.ppy.sh/10557490"  
