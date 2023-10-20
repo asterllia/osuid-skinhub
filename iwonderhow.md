@@ -1,4 +1,4 @@
-# iwonderhow's skinhub
+# iwonderhow's skins
 <p align="center">
 <a href="https://osu.ppy.sh/users/17953700">
   <img src="https://a.ppy.sh/17953700"  
