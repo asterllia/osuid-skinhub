@@ -1,4 +1,4 @@
-# shinei's skinhub
+# shinei's skins
 <p align="center">
 <a href="https://osu.ppy.sh/users/4579136">
   <img src="https://a.ppy.sh/4579136"  
