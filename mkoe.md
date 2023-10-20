@@ -1,4 +1,4 @@
-# mkoean's skinhub
+# mkoean's skins
 <p align="center">
 <a href="https://osu.ppy.sh/users/11847189">
   <img src="https://a.ppy.sh/11847189"  
