@@ -1,4 +1,4 @@
-# Belllcroseu's skinhub
+# Belllcroseu's skins
 <p align="center">
 <a href="https://osu.ppy.sh/users/20752007">
   <img src="https://a.ppy.sh/20752007"  
