@@ -5,4 +5,4 @@
        width="150"
        height="150"></a>
 
-  ## Pindah Halaman Ke<a href="https://github.com/asterllia/skins"><b>sini</b></a>
+  ## Pindah Halaman <a href="https://github.com/asterllia/skins"><b>Kesini</b></a>
