@@ -1,4 +1,4 @@
-# Shiv skinhub
+# Shiv's skins
 <p align="center">
 <a href="https://osu.ppy.sh/users/5718575">
   <img src="https://a.ppy.sh/5718575"  
