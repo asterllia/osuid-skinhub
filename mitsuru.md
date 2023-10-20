@@ -1,4 +1,4 @@
-# mitsuru's skinhub
+# mitsuru's skins
 <p align="center">
 <a href="https://osu.ppy.sh/users/8004635">
   <img src="https://a.ppy.sh/8004635"  
