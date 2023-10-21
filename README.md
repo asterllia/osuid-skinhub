@@ -3,7 +3,7 @@
 dibuat oleh <a href="https://osu.ppy.sh/users/9456733">asterllia-</a><br>
 
 </br>
-  <a href="asterllia.md">
+  <a href="https://github.com/asterllia/skins">
   <img src="https://a.ppy.sh/9456733"  
        width="175"
        height="175"></a>
