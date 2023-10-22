@@ -1,5 +1,5 @@
 # osu!indonesia-skinhub
-### Hello! ini merupakan tempat dimana skin osu, terutama player Indonesia dikumpulkan, apabila kalian ingin mengsubmit skin kalian, kalian bisa DM asterllia- via Discord : melodynl-#8754 !! 
+### Hello! ini merupakan tempat dimana skin osu, terutama player Indonesia dikumpulkan, apabila kalian ingin mengsubmit skin kalian, kalian bisa DM asterllia- via Discord : asterllia
 dibuat oleh <a href="https://osu.ppy.sh/users/9456733">asterllia-</a><br>
 
 </br>
