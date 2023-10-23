@@ -67,4 +67,16 @@ dibuat oleh <a href="https://osu.ppy.sh/users/9456733">asterllia-</a><br>
   <img src="https://a.ppy.sh/13884263"  
        width="175"
        height="175"></a>
+       <a href="Yacchie-.md">
+  <img src="https://a.ppy.sh/13716503"  
+       width="175"
+       height="175"></a>
+       <a href="Shikikann.md">
+  <img src="https://a.ppy.sh/19478149"  
+       width="175"
+       height="175"></a>
+       <a href="venta.md">
+  <img src="https://a.ppy.sh/11320627"  
+       width="175"
+       height="175"></a>
      
