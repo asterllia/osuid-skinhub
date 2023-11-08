@@ -79,4 +79,8 @@ dibuat oleh <a href="https://osu.ppy.sh/users/9456733">asterllia-</a><br>
   <img src="https://a.ppy.sh/11320627"  
        width="175"
        height="175"></a>
+        <a href="veltlion.md">
+  <img src="https://a.ppy.sh/10999079"  
+       width="175"
+       height="175"></a>
      
