@@ -1,7 +1,7 @@
 # [u_u]'s skins
 <p align="center">
 <a href="https://osu.ppy.sh/users/8688737">
-  <img src="https://cdn.discordapp.com/attachments/1077225166813270016/1164802205145120808/IMG_1204.png"  
+  <img src="https://cdn.discordapp.com/attachments/1077225166813270016/1164802205145120808/IMG_1204.png?ex=65eaa696&is=65d83196&hm=fdb5ad345067cd4884e9393fbfda92585d2019818991b126d577ad76e9d0e621&"  
        width="150"
        height="150"></a>
 
