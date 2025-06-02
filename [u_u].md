@@ -12,7 +12,7 @@
   [![](https://i.imgur.com/6ILLWxQ.jpeg)](https://cdn.discordapp.com/attachments/1077225166813270016/1379154918689996911/GN_hani_fix.osk?ex=683f359c&is=683de41c&hm=9c6104d4fd19903a672f611fb35cfd0e65ffb23a8655c6b36cf581b3b93082b5&) 
 
 # [[u_u]](https://drive.google.com/file/d/1FJvoFFmi2jyNQ5Qa1xw8Q8Ubuw7wFiTd/view?usp=share_link)
-[![](https://i.imgur.com/EA1fHKX.jpeg)(https://drive.google.com/file/d/1FJvoFFmi2jyNQ5Qa1xw8Q8Ubuw7wFiTd/view?usp=share_link)
+[![](https://i.imgur.com/EA1fHKX.jpeg)](https://drive.google.com/file/d/1FJvoFFmi2jyNQ5Qa1xw8Q8Ubuw7wFiTd/view?usp=share_link)
 
 # [[u_u] flower](https://drive.google.com/file/d/1RLf8gH0iMvkAvQoWaYJ13dCg5mXvyf5i/view?usp=share_link)
 [![](https://i.imgur.com/IivPtLr.jpeg)](https://drive.google.com/file/d/1RLf8gH0iMvkAvQoWaYJ13dCg5mXvyf5i/view?usp=share_link)
